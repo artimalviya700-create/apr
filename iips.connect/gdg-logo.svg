@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 96" role="img" aria-labelledby="title">
+  <title id="title">Google Developer Groups</title>
+  <rect width="250" height="96" fill="#fff" />
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="11">
+    <path d="M13 49 37 35" stroke="#4285f4" />
+    <path d="m37 35 20-11" stroke="#ea4335" />
+    <path d="m37 35 20 12" stroke="#fbbc04" />
+    <path d="m68 24 22 12" stroke="#34a853" />
+    <path d="m68 48 22-12" stroke="#fbbc04" />
+    <path d="m90 36-22 12" stroke="#34a853" />
+  </g>
+  <text x="112" y="55" fill="#5f6368" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="400" letter-spacing="-1">GDG</text>
+</svg>
